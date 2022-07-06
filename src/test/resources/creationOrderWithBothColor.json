@@ -1,0 +1,14 @@
+{
+    "firstName": "Donald",
+    "lastName": "Galvin",
+    "address": "Colorado, 25 apt.",
+    "metroStation": 11,
+    "phone": "+7 800 355 17 17",
+    "rentTime": 5,
+    "deliveryDate": "2022-05-17",
+    "comment": "Need more water",
+    "color": [
+	    "BLACK",
+        "GREY"
+    ]
+}
